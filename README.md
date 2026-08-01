@@ -1,45 +1,49 @@
-# PortfolioTemplate Website
+# Herit Desai Portfolio
 
-This is a portfolioTemplate website template designed to showcase your work or personal information.
+A responsive personal portfolio website built for Herit Desai, showcasing education, skills, projects, achievements, and contact details.
 
-## Demo-images
-![s1](https://github.com/Arshdeep-13/portfolioTemplate/assets/108752646/ee99e60f-443a-4ed2-83c7-9a14b0abcc26)
-![s3](https://github.com/Arshdeep-13/portfolioTemplate/assets/108752646/f7042bf7-0b30-4300-8cf1-1e226cd45ee0)
-![s2](https://github.com/Arshdeep-13/portfolioTemplate/assets/108752646/0510814b-54fa-4360-b41b-cb0a2daf0db7)
+## Overview
+
+This repository contains a static portfolio website built with HTML, CSS, and JavaScript. It is designed for a student and developer profile with a clean, mobile-friendly layout and sections for personal summary, education, skills, projects, achievements, responsibilities, and contact.
 
 ## Features
 
-- Clean and minimal design
-- Responsive layout
-- Easy to customize
-- Lightweight and fast
+- Personal branding for Herit Desai
+- Responsive layout for desktop and mobile
+- Navigation menu with section anchors
+- Profile summary, education, skills, and project showcase
+- Contact section with social links
+- Bootstrap-based styling and custom CSS
 
-## Demo
+## Files
 
-You can see a live demo of the website [here](https://tpriyanshu90-portfolio.netlify.app/)
+- `index.html` — main portfolio page
+- `css/style.css` — custom styles and layout
+- `js/main.js` — page interactions and scripts
+- `img/` — profile and portfolio images
+- `fonts/` — font assets used by the website
 
-## Installation
+## Usage
 
-To use this template, follow these steps:
+To view the portfolio locally:
 
-1. Clone the repository: `git clone https://github.com/tpriyanshu90/portfolioTemplate.git`
-2. Navigate to the project directory: `cd portfolioTemplate`
-3. Open the `index.html` file in your web browser.
+1. Open `index.html` in your browser.
+2. Optionally host the folder with a local server for development.
 
-## Customization
+## Customize
 
-To customize the website according to your needs, you can:
+To update the portfolio content:
 
-- Modify the HTML structure in the `index.html` file to change the content and layout.
-- Edit the CSS styles in the `styles.css` file to modify the visual appearance.
-- Update the JavaScript in the `script.js` file to add interactivity or additional features.
+- Edit `index.html` for text, images, and navigation sections.
+- Modify `css/style.css` for visual styling and layout changes.
+- Adjust `js/main.js` if you need custom behavior or interactivity.
 
-Feel free to experiment and make changes to create your unique portfolio website.
+## Contact
 
-## Contributing
+The portfolio is built for:
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+- Name: Herit Desai
+- Education: B.Tech in Information Technology at IIIT Allahabad
+- Email: heritd456@gmail.com
+- GitHub: https://github.com/heritd456
+- LinkedIn: https://linkedin.com/in/herit-desai
