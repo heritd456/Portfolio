@@ -1,4 +1,4 @@
-# portfolioTemplate Website
+# PortfolioTemplate Website
 
 This is a portfolioTemplate website template designed to showcase your work or personal information.
 
